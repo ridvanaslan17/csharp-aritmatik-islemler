@@ -1,0 +1,20 @@
+C:\Users\LAB-5\source\repos\uygulama2\uygulama2\bin\Debug\uygulama2.exe.config
+C:\Users\LAB-5\source\repos\uygulama2\uygulama2\bin\Debug\uygulama2.exe
+C:\Users\LAB-5\source\repos\uygulama2\uygulama2\bin\Debug\uygulama2.pdb
+C:\Users\LAB-5\source\repos\uygulama2\uygulama2\obj\Debug\uygulama2.csproj.AssemblyReference.cache
+C:\Users\LAB-5\source\repos\uygulama2\uygulama2\obj\Debug\uygulama2.Form1.resources
+C:\Users\LAB-5\source\repos\uygulama2\uygulama2\obj\Debug\uygulama2.Properties.Resources.resources
+C:\Users\LAB-5\source\repos\uygulama2\uygulama2\obj\Debug\uygulama2.csproj.GenerateResource.cache
+C:\Users\LAB-5\source\repos\uygulama2\uygulama2\obj\Debug\uygulama2.csproj.CoreCompileInputs.cache
+C:\Users\LAB-5\source\repos\uygulama2\uygulama2\obj\Debug\uygulama2.exe
+C:\Users\LAB-5\source\repos\uygulama2\uygulama2\obj\Debug\uygulama2.pdb
+E:\uygulama 4.10.2023\uygulama2\bin\Debug\uygulama2.exe.config
+E:\uygulama 4.10.2023\uygulama2\bin\Debug\uygulama2.exe
+E:\uygulama 4.10.2023\uygulama2\bin\Debug\uygulama2.pdb
+E:\uygulama 4.10.2023\uygulama2\obj\Debug\uygulama2.csproj.AssemblyReference.cache
+E:\uygulama 4.10.2023\uygulama2\obj\Debug\uygulama2.Form1.resources
+E:\uygulama 4.10.2023\uygulama2\obj\Debug\uygulama2.Properties.Resources.resources
+E:\uygulama 4.10.2023\uygulama2\obj\Debug\uygulama2.csproj.GenerateResource.cache
+E:\uygulama 4.10.2023\uygulama2\obj\Debug\uygulama2.csproj.CoreCompileInputs.cache
+E:\uygulama 4.10.2023\uygulama2\obj\Debug\uygulama2.exe
+E:\uygulama 4.10.2023\uygulama2\obj\Debug\uygulama2.pdb
